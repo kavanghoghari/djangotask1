@@ -1,5 +1,4 @@
-touch README_Task1.md
-touch README_Task2.md
+
 # Django App with Two HTML Pages and HTTPS Requests
 
 This README provides step-by-step instructions for creating a Django app with two HTML pages and HTTPS requests.
